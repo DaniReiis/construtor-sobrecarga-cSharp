@@ -9,16 +9,16 @@ namespace construtores
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome { get; set; } // Nome é privado para evitar acesso direto, mas pode ser acessado através de métodos públicos então usamos _ e o nome em usculo para indicar que é um campo privado.
+        private double _preco { get; } // Preço é privado para evitar acesso direto, mas pode ser acessado através de métodos públicos então usamos _ e o nome em usculo para indicar que é um campo privado.
+        private int _quantidade { get; set; } // Preço é privado para evitar acesso direto, mas pode ser acessado através de métodos públicos então usamos _ e o nome em usculo para indicar que é um campo privado.
 
         public Produto(string nome, double preco, int quantidade) 
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-        }
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
+        }   
 
         public Produto(string nome, double preco) : this(nome, preco, 10) //sobrecarga de construtor com estoque sempre começando com 10 unidades
         {
@@ -26,23 +26,23 @@ namespace construtores
 
         public double ValorTotalEmEstoque()
         {
-            return Preco * Quantidade;
+            return _preco * _quantidade;
         }
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade += quantidade;
+            _quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade)
         {
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
         public override string ToString()
         {
-            return Nome
+            return _nome
             + ", $ "
-            + Preco.ToString("F2", CultureInfo.InvariantCulture)
+            + _preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
-            + Quantidade
+            + _quantidade
             + " unidades, Total: $ "
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

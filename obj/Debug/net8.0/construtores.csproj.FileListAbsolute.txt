@@ -12,3 +12,4 @@ C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.pdb
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\ref\construtores.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.sourcelink.json
