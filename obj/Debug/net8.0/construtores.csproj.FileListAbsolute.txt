@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\bin\Debug\net8.0\construtores.exe
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\bin\Debug\net8.0\construtores.deps.json
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\bin\Debug\net8.0\construtores.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\bin\Debug\net8.0\construtores.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\bin\Debug\net8.0\construtores.pdb
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\refint\construtores.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.pdb
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\construtores.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\construtores\obj\Debug\net8.0\ref\construtores.dll
